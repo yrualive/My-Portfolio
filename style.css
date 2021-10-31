@@ -127,6 +127,13 @@
   cursor: pointer;
 }
 
+.abt {
+  text-align: center;
+  margin-top: 100px;
+  margin-right: 50px;
+  margin-left: 40px;
+  box-sizing: border-box;
+}
 
 .abt p {
   font-size: 2.7vw;

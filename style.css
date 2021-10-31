@@ -116,6 +116,12 @@
   height: 85vh;
 }
 
+.photo img {
+  height: 70vh;
+  width: 35vw;
+  padding-left: 100px;
+  margin-top: 100px;
+}
 
 .photo img:hover {
   cursor: pointer;
